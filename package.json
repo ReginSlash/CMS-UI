@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.4",
+    "apexcharts": "^3.41.1",
+    "react-apexcharts": "^1.4.1",
+    "react-hook-form": "^7.45.4",
+    "react-icons": "^4.10.1",
+    "recharts": "^2.7.3"
+  }
+}
